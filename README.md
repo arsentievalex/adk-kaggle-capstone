@@ -55,8 +55,8 @@ Phase 3: Outreach Generation (1 agent)
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd researchpilot-ai
+git clone https://github.com/arsentievalex/adk-kaggle-capstone
+cd adk-kaggle-capstone
 
 # Create virtual environment
 python -m venv .venv
