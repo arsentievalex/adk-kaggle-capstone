@@ -1,6 +1,6 @@
 # ADK Sales Copilot
 
-**Multi-agent system that automates enterprise sales research from company analysis to personalized email drafts.**
+**Google ADK-powered multi-agent platform that delivers deep prospect intelligence and strategic outreach in minutes, not hours.**
 
 ---
 
