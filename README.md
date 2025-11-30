@@ -55,7 +55,7 @@ Phase 3: Outreach Generation (1 agent)
 
 ```bash
 # Clone the repository
-git clone https://github.com/arsentievalex/adk-kaggle-capstone
+git clone https://github.com/arsentievalex/adk-kaggle-capstone.git
 cd adk-kaggle-capstone
 
 # Create virtual environment
